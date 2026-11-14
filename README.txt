@@ -1,4 +1,4 @@
-TANBIR YT — WEB PANEL CONNECTED BUILD
+RLX TCP — WEB PANEL CONNECTED BUILD
 
 Start locally:
   pip install -r requirements.txt
@@ -9,8 +9,8 @@ password, nickname and region in the panel. Press Save & Start to launch the bot
 worker using the bot engine included in this package.
 
 Default admin login from the inherited panel:
-  username: tanvirtcp
-  password: tanvirtcp
+  username: RLX-PAPA
+  password: RLX-PAPA
 
 IMPORTANT: Change the default admin password before exposing this panel publicly.
 Set ADMIN_PASS in the environment. For hosted deployment, configure a persistent
